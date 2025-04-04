@@ -16,4 +16,3 @@ function calculateResult() {
         display.value = 'Erro';
     }
 }
-
